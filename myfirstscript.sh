@@ -4,3 +4,4 @@ echo "Thi is my first repo and i am very excited to make it functional"
 whoami
 uname -r
 echo "1 2 3"
+echo "Hi Sanjay"
